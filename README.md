@@ -1,19 +1,18 @@
-##Nama  : Dodi Devrian Andrianto
-##NIM   : 119140023
-##Prak 4 PWL Webservice
+### Nama  : Dodi Devrian Andrianto
+### NIM   : 119140023
+### Prak 4 PWL Webservice
 
-Menjalankan sisi server
+
+#### Menjalankan sisi server
 Server yang digunakan adalah laravel
+- Menjalankan ```php artisan serve``` untuk memulai server
 
-Memasang database portofolio_frinaldo.sql
-Menjalankan php artisan serve untuk memulai server
-Menjalankan sisi client
-Client side yang di gunakan adalah react
+#### Menjalankan sisi client
+Untuk menjalankan sisi client, saya menggunakan react js
 
--Menjalankan yarn start
+-Menjalankan ```yarn start```
 
 Instalasi package tambahan
-
 ```
 npm install react-jss
 npm install axios
